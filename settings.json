@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "faltuuuinsaan",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "WorldOfWonders-RqG8.aternos.me",
-    "port": 22886,
+    "ip": "minecraftnet-N8nP.aternos.me",
+    "port": 49195,
     "version": "",
     "try-creative": false
   },
